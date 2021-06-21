@@ -1,6 +1,6 @@
 # CS-350-Emerging-Sys-Arch-Tech
 
-Summarry of the Porject:
+Summarry of the Project:
 
 
 What did you do particularly well?
